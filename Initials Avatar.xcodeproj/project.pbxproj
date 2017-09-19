@@ -14,7 +14,6 @@
 		99A14CA41A9AF229002C110B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99A14CA31A9AF229002C110B /* Images.xcassets */; };
 		99A14CA71A9AF229002C110B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 99A14CA51A9AF229002C110B /* LaunchScreen.xib */; };
 		99A14CBE1A9AF2D5002C110B /* CDFInitialsAvatar.m in Sources */ = {isa = PBXBuildFile; fileRef = 99A14CBD1A9AF2D5002C110B /* CDFInitialsAvatar.m */; };
-		AF95300B1F71421700420BDF /* CDFInitialsAvatar.h in Headers */ = {isa = PBXBuildFile; fileRef = AF9530091F71421700420BDF /* CDFInitialsAvatar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AF95300F1F71421A00420BDF /* CDFInitialsAvatar.m in Sources */ = {isa = PBXBuildFile; fileRef = 99A14CBD1A9AF2D5002C110B /* CDFInitialsAvatar.m */; };
 		AF9530101F71421D00420BDF /* CDFInitialsAvatar.h in Headers */ = {isa = PBXBuildFile; fileRef = 99A14CBC1A9AF2D5002C110B /* CDFInitialsAvatar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -129,7 +128,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF9530101F71421D00420BDF /* CDFInitialsAvatar.h in Headers */,
-				AF95300B1F71421700420BDF /* CDFInitialsAvatar.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
